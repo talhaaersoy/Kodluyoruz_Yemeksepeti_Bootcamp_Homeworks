@@ -1,0 +1,70 @@
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.exe
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.deps.json
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.json
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.dev.json
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csprojAssemblyReference.cache
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfo.cs
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\FirstApplication.StaticWebAssets.Manifest.cache
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\FirstApplication.StaticWebAssets.xml
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\FirstApplication.styles.css
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.RazorTargetAssemblyInfo.cache
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\pinar\source\repos\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.genruntimeconfig.cache
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.exe
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.deps.json
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.json
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.dev.json
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csprojAssemblyReference.cache
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfo.cs
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\FirstApplication.StaticWebAssets.Manifest.cache
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\FirstApplication.StaticWebAssets.xml
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\FirstApplication.styles.css
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.RazorTargetAssemblyInfo.cache
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.genruntimeconfig.cache
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.CopyComplete
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\products.json
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\mtalh\OneDrive\Masaüstü\KodluyoruzFirst\FirstApplication\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\products.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.exe
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.deps.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.dev.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csprojAssemblyReference.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfo.cs
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\FirstApplication.StaticWebAssets.Manifest.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\FirstApplication.StaticWebAssets.xml
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\FirstApplication.styles.css
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.RazorTargetAssemblyInfo.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.CopyComplete
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.genruntimeconfig.cache

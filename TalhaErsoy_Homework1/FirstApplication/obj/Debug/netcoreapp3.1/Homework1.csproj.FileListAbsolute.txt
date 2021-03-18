@@ -1,0 +1,74 @@
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\products.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.exe
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.deps.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\Homework1.StaticWebAssets.Manifest.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\Homework1.StaticWebAssets.xml
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\Homework1.styles.css
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.RazorTargetAssemblyInfo.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.csproj.CopyComplete
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.genruntimeconfig.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.exe
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\products.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.deps.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.csprojAssemblyReference.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\Homework1.StaticWebAssets.Manifest.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\Homework1.StaticWebAssets.xml
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\Homework1.styles.css
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.RazorTargetAssemblyInfo.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.csproj.CopyComplete
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti BootcamP Ödevleri\Ödev deneme\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.genruntimeconfig.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.exe
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\products.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.deps.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.csprojAssemblyReference.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\Homework1.StaticWebAssets.Manifest.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\staticwebassets\Homework1.StaticWebAssets.xml
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\Homework1.styles.css
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.RazorTargetAssemblyInfo.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.csproj.CopyComplete
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepetiBootcamp\Homework1\FirstApplication\obj\Debug\netcoreapp3.1\Homework1.genruntimeconfig.cache

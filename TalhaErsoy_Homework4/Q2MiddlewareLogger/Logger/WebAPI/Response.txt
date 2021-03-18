@@ -1,0 +1,6 @@
+Http Response Information:    Time : 17.02.2021 18:17:17   Response Body: 
+Http Response Information:    Time : 17.02.2021 18:17:28   Response Body: {"id":1,"temperatureC":50,"summary":"adsdasd"}
+Http Response Information:    Time : 17.02.2021 18:17:31   Response Body: {"id":2,"temperatureC":50,"summary":"adsdasd"}
+Http Response Information:    Time : 17.02.2021 18:17:34   Response Body: {"id":3,"temperatureC":50,"summary":"adsdasd"}
+Http Response Information:    Time : 17.02.2021 18:17:38   Response Body: {"id":4,"temperatureC":50,"summary":"adsdasd"}
+Http Response Information:    Time : 17.02.2021 18:17:41   Response Body: {"id":5,"temperatureC":50,"summary":"adsdasd"}

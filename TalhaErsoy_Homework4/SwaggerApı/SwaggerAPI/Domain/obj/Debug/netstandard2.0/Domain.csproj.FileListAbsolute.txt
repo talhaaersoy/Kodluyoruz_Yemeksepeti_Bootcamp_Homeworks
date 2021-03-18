@@ -1,0 +1,12 @@
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\mtalh\OneDrive\Masaüstü\YemekSepeti Ödevler\Homework4\Domain\obj\Debug\netstandard2.0\Domain.pdb
