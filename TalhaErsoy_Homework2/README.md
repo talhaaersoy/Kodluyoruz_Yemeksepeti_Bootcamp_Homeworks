@@ -1,18 +1,12 @@
-# week2-homework
-bir kahve dükkanı için müşteri bilgileri toplayan bir sistem yazdım. 
-Sistemde İki controller var.
-1.si Person controller kullanıcı işlerini  yapıyor.
-Eğer kişi kahveciden ilk kez alışveriş yapıyorsa ilk kahvesini yarı fiyatına içiyor kullanıcıya "Hoşgeldiniz borcunuz : 5" diye dönüyor.
-post işlemini bir sipariş nesnesini alıp mapping işlemini gerçekleştirip database'e Id = "12334567896" UserName = "Talha_Ersoy" şeklinde kaydediyor.
-sisteme iki adet validation ekledim eğer tc kimlik no 11 haneli değilse kullanıcıya  tc kimlik hatalı çıktısı dönüyor ve siparişteki kahve mevcut değilse kahvemiz mevcut değil diye geri dönüyor
-sistemde  interface kullandım ilerleyen zamanalarda yeni bir içeçek eklenirse sisteme kolay implemente olması için.
+# Basic Cafe Automation
+i wrote a system that collects customer information for a cafe.
 
+There are two controllers in the system.
 
-2. controller coffee controller menüye kahve eklemeyi ve listelemeyi yapıyor.buraya bir role access attribute ekledim ve ekleme işlemini sadece "director" yapabiliyor.
-<<<<<<< HEAD
+1. Controller is doing user work
+   -If the person is shopping from the coffee shop for the first time, she drinks her first coffee at half price and returns to -the user, "Your welcome debt: 5"
+   -I typed an extension for the mapping process
+   -I have added two validations to the system. If the ID number is not 11 digits, the user returns an incorrect ID number. The other validation is that if the coffee in the order is not available, our coffee is not available printout returns
 
-=======
->>>>>>> refs/remotes/origin/main
-
-
-
+2.This  controller does the task of adding and deleting coffee to the menu.
+   -Controls the role of the operator with the help of an attribute, if authorized, allows the action
