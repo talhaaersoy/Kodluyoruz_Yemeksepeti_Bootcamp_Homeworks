@@ -7,12 +7,13 @@
   align-items: center;
 }
 .todos{
-  width: 75%;
+  width: 50%;
   height: 90%;
   background-color: #edf7f6;
   border-radius: 20px;
   border: solid 5px ;
   border-color: #9df9ef;
+  word-wrap: break-word !important;
 }
 .title{
   font-size: 80px;
@@ -28,6 +29,7 @@
   height: auto;
   display: flex;
   justify-content: space-between;
+
 }
 input{
   width: 75%;
@@ -42,7 +44,7 @@ outline: none;
   border-radius: 20px;
   width: 25%;
   height: 3rem;
-  margin-top: 18px;
+  margin-top: 15px;
   background-color: #ffa8b6;
   transition: 1s;
   border : 0;
@@ -50,14 +52,17 @@ outline: none;
 .addButton:hover{
   background-color:#720c28;
   color : #fff;
+
 }
 .todoForm{
   list-style-type: none;
   display: flex;
   justify-content :space-between;
+  word-wrap: break-word !important;
 }
 ul{
   padding-left: 5px;
+  word-wrap: break-word !important;
 }
 li{
   display: flex;
@@ -66,7 +71,15 @@ li{
   margin: 12px;
   font-weight: bold;
   font-size: large;
+  word-wrap: break-word !important;
+
 }
 i{
   margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+p{
+  word-wrap: break-word !important;
+  width: 100%;
 }

@@ -13,9 +13,9 @@ function TodoList(props) {
       <ul>
         {todoList.map((list, index) => {
           return (
-            <div>
+            <div className="liDiv">
               <li key={index}>
-                {list}
+                <p>{list}</p>
                 <a
                   href="#"
                   onClick={() => {

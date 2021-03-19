@@ -1,8 +1,12 @@
 import React from 'react'
 
-const addTodo = (setList) => {
+const addTodo = async (setList) => {
+    
     const text = document.querySelector("#input").value;
-    setList(list => [...list,text]);
+    if(text !=""){
+    await setList(list => [...list,text]);
+    document.querySelector("#input").value = "";
+}
     
 }
 const Form = (props) => {
@@ -10,7 +14,7 @@ const Form = (props) => {
     return ( 
         <div className = "todoForm" > 
             <input type="text" placeholder = "Add Todo" id ="input"/>
-            <button className = "addButton" type = "submit" onClick = {() => {addTodo(setList)}}> Save</button>
+            <button className = "addButton" type = "submit" onClick = {() => {addTodo(setList);}}> Save</button>
         </div>
     )
 }
